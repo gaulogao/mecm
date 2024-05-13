@@ -10,4 +10,4 @@ Used to collect from the following endpoints:
 - computer upgrade information
 
 Usage:
-Run as Administrator:  ConfigMgr-Tool.exe
+Run as Administrator:  `ConfigMgr-Tool.exe`
